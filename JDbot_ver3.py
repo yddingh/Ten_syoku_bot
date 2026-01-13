@@ -12,13 +12,13 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 
-# 搜索结果页
+# 搜索结果
 TARGET_URL = "https://pdt.r-agent.com/pdt/app/pdt_joboffer_search_view?searchKeyword=%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88&searchJobtypes=1110000000,3305000000&searchPlaces=35,37,36&searchSalaryFrom=500&searchTypeOfEmployment=1&searchHoliday=1&sort=2&sn=e2005d526aa8027c084ac80c391860fe&PDT63B=undefined&PDT61C=undefined" 
 
-# 只抓取该日期及之后的更新
+# 更新日期：只抓取该日期及之后的更新
 START_DATE_LIMIT = "2026-01-01" 
 
-#结果文件(跳过既存内容)
+# 结果文件(跳过既存内容)
 CSV_FILE = "jd_data_raw.csv"
 
 
