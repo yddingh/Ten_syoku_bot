@@ -1,29 +1,25 @@
 # Ten_syoku_bot
 
-?¥ˆê˜¢—p˜°Ž©?‰»SŽæRecruit Agentã¤â‹“I”˜›ó?s??‰»´ô“IH‹ïB
-?–ÚW¬—¹ã¤?Ž©?‰»‹r–{—^”˜??—??CŽ|Ý’ñ‚?ˆÊM‘§“I?Žæ—^•ªÍÁ—¦B
+è¿™æ˜¯ä¸€ä¸ªç”¨äºŽè‡ªåŠ¨åŒ–æŠ“å–Recruit Agentæ•°æ®å¹¶è¿›è¡Œç»“æž„åŒ–æ¸…æ´—çš„å·¥å…·ã€‚
+é¡¹ç›®é›†æˆäº†ç½‘é¡µè‡ªåŠ¨åŒ–è„šæœ¬ä¸Žæ•°æ®é¢„å¤„ç†é€»è¾‘ï¼Œæ—¨åœ¨æé«˜èŒä½ä¿¡æ¯çš„èŽ·å–ä¸Žåˆ†æžæ•ˆçŽ‡ã€‚
 
 
+### ç¬¬ä¸€æ­¥ï¼šé…ç½®è„šæœ¬
+æ‰“å¼€ `JDbot_ver3.py`ï¼Œæ ¹æ®æŠ“å–éœ€æ±‚ä¿®æ”¹ä»¥ä¸‹ä¿¡æ¯å¹¶ä¿å­˜ï¼š
+* ä¿®æ”¹ **ã€æœç´¢ç»“æžœã€‘** 
+* ä¿®æ”¹ **ã€æ›´æ–°æ—¥æœŸã€‘**
 
-##  Žg—p—¬’ö
+### ç¬¬äºŒæ­¥ï¼šæ‰§è¡ŒæŠ“å–
+1. è¿è¡Œä¸»ç¨‹åºï¼š`python JDbot_ver3.py`
+2. åœ¨è‡ªåŠ¨å¼¹å‡ºçš„ç½‘é¡µçª—å£ä¸­å®Œæˆ **è´¦å·å¯†ç ç™»å½•**ã€‚
+3. å›žåˆ° CMD/ç»ˆç«¯ç•Œé¢ï¼Œ**æŒ‰å›žè½¦é”®**æ­£å¼å¼€å§‹æŠ“å–ã€‚
+4. **æ‰‹åŠ¨ä¸­æ–­**ï¼šå½“è§‚å¯Ÿåˆ°æŽ§åˆ¶å°å¼€å§‹å‡ºçŽ°â€œå¤§é‡è·³è¿‡â€æç¤ºæ—¶ï¼Œè¡¨ç¤ºå·²æŠ“å–åˆ°é‡å¤å†…å®¹ï¼Œæ­¤æ—¶å¯ä¸­æ–­è¿è¡Œã€‚
 
-### ‘æˆê?F”z’u‹r–{
-‘Å? `JDbot_ver3.py`Cª˜SŽæŽù‹C‰üˆÈ‰ºM‘§›ó•Û‘¶F
-* C‰ü **yrõ?‰Êz** 
-* C‰ü **yXV“úŠúz**
+### ç¬¬ä¸‰æ­¥ï¼šæ•°æ®æ¸…æ´—
+1. æ‰“å¼€ `data-cleansing_ver3.ipynb`ã€‚
+2. è¿è¡Œæ‰€æœ‰ Cellï¼Œç¨‹åºå°†è‡ªåŠ¨å¤„ç†åŽŸå§‹æ•°æ®ã€‚
 
-### ‘æ“ñ?F?sSŽæ
-1. ?sŽå’ö˜F`python JDbot_ver3.py`
-2. ÝŽ©??o“Iã¤?âxŒû’†Š®¬ **?†–§?“o?**B
-3. ‰ñ“ž CMD/?’[ŠE–ÊC**ˆÂ‰ñ??**³Ž®?ŽnSŽæB
-4. **Žè?’†’f**F“–?Ž@“žT§‘ä?Žno?g‘å—Ê’µ?h’ñŽ¦?C•\Ž¦›ßSŽæ“žd?“à—eCŸ?‰Â’†’f?sB
-
-### ‘æŽO?F”˜´ô
-1. ‘Å? `data-cleansing_ver3.ipynb`B
-2. ?sŠ—L Celli?Œ³ŠijC’ö˜«Ž©??—Œ´Žn”˜B
-
-### ‘æŽl?F?‰Ê?o
-1. Q“ž¶¬“I `jd_data_structured.csv` •¶ŒB
-2. Žg—p **Excel** ‘Å??•¶ŒB
-3. ??Ù?@C?‘¶? Excel ŠiŽ®i.xlsxjˆÈ•Ö@?Žg—pB
+### ç¬¬å››æ­¥ï¼šç»“æžœå¯¼å‡º
+1. æ‰¾åˆ°ç”Ÿæˆçš„ `jd_data_structured.csv` æ–‡ä»¶ã€‚
+2. ä½¿ç”¨ **Excel** æ‰“å¼€è¯¥æ–‡ä»¶ã€‚
 
